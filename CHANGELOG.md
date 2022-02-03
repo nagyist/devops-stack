@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.53.0](https://www.github.com/camptocamp/devops-stack/compare/v0.52.0...v0.53.0) (2022-02-03)
+
+
+### Features
+
+* **sks:** expose local.kubernetes to outputs ([0adbe95](https://www.github.com/camptocamp/devops-stack/commit/0adbe95e10473cd4fd4312548e93735d296d7e86))
+
 ## [0.52.0](https://www.github.com/camptocamp/devops-stack/compare/v0.51.1...v0.52.0) (2022-01-14)
 
 
